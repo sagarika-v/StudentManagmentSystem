@@ -38,5 +38,12 @@ This is a simple **Student Management System** implemented in Python using Objec
 2. Make sure you have Python installed (version 3.x recommended).
 3. Run the script using:
 
-```bash
-python your_script_name.py
+python StudentManagmentSystem.py
+
+## Sample Usage
+
+After running the script (`StudentManagmentSystem.py`), you will see a menu like this:
+
+
+
+
