@@ -38,11 +38,28 @@ This is a simple **Student Management System** implemented in Python using Objec
 2. Make sure you have Python installed (version 3.x recommended).
 3. Run the script using:
 
-python StudentManagmentSystem.py
+   python StudentManagmentSystem.py
 
 ## Sample Usage
 
 After running the script (`StudentManagmentSystem.py`), you will see a menu like this:
+
+===== Student Management System =====
+1. Add Student
+2. Add PostGraduate Student
+3. View All Students
+4. Search Student by Roll No
+5. Exit
+Enter choice: 1
+Enter name: John Doe
+Enter roll no: 101
+Enter branch: Computer Science
+Student added.
+
+===== Student Management System =====
+Enter choice: 3
+Student: John Doe, Roll No: 101, Branch: Computer Science
+
 
 
 
